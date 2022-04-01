@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DtotheHill
+- 👋 Hi, I’m Dan.
 - 👀 I’m interested in strength training, coding, live music, outdoors, cats, and my wife.
 - 🌱 I’m currently learning to became a software engineer. I'm diving in deep to JS.
 - 💞️ I’m looking to collaborate on something soon.

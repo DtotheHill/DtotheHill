@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dan.
 - 👀 I’m interested in strength training, coding, live music, outdoors, cats, and my wife.
-- 🌱 I’m currently diving in deep to JS.
+- 🏫 Currently enrolled as a Java bootcamp student at Tech Elevator.
+- 🧠 I will be learning Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, Integration Testing, Unix
 - 💞️ I’m looking to collaborate on something soon.
 - 📫 How to reach me https://twitter.com/DanHillegas 
 
